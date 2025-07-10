@@ -125,7 +125,7 @@ Contributions are welcome! Please submit issues or pull requests to the [GitHub 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-- **Halit Yeşil** ([@halityesil](https://github.com/halityesil))
+- **Halit Yeşil** ([@halityesil](https://github.com/halityesil)) ([halityesil.com](https://halityesil.com)) ([x.com/halityesil](https://x.com/halityesil))
 
 ## Version
 - **1.0.0** (Released: 2025-07-10)
